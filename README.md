@@ -10,8 +10,11 @@ When the player loses a life all of the damaged mushrooms on the board are resto
 ## Scoring
 
 Hitting a centipede segment: 2 pts
+
 Destroying a centipede segment: 5 pts
+
 Hitting a mushroom: 1 pts
+
 Destroying a mushroom: 5 pts
 Each mushroom restored: 10 pts
 Hitting the spider: 100 pts
