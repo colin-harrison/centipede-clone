@@ -16,9 +16,13 @@ Destroying a centipede segment: 5 pts
 Hitting a mushroom: 1 pts
 
 Destroying a mushroom: 5 pts
+
 Each mushroom restored: 10 pts
+
 Hitting the spider: 100 pts
+
 Killing the spider: 600 pts
+
 Killing the centipede: 600 pts
 
 ---
